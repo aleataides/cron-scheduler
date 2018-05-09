@@ -1,0 +1,7 @@
+.login_content .alert {
+    text-shadow: none !important;
+}
+
+.bad input {
+    border-color: rgba(231,76,60,.88) !important;
+}
